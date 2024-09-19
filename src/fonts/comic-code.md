@@ -7,7 +7,7 @@ license:
   - name: MyFonts Licensing
     url: https://www.myfonts.com/fonts/tabular-type-foundry/comic-code?tab=licensing
 cost: $3.33 - $99.99
-ligatures: false
+ligatures: true
 italics: true
 variable: false
 stylesheet_url: Comic Code/comic-code.css
